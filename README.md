@@ -9,9 +9,9 @@
 
 ## 🌱 About Me
 - 💻 Passionate about **modern web development**
-- 🚀 Working with **React, Next.js & Node.js**
+- 🚀 Skilled in **React, Next.js, Node.js, MongoDB & Firebase**
 - 🎯 Goal: Become a **professional full-stack developer**
-- 📍 Based in **Bangladesh**
+- 🌍 Based in **Bangladesh**
 
 ---
 
@@ -20,9 +20,11 @@
 <a href="https://www.linkedin.com/in/rakibulhossain04/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.facebook.com/rakibul.hossain.925602" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="28"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/rhrakib04/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28"/>
 </a>
@@ -48,22 +50,21 @@
 
 ## 📌 Pinned Projects
 <p align="center">
-  <a href="https://github.com/rh-rakib04">
+  <a href="https://github.com/rh-rakib04/YOUR_REPO_NAME">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rh-rakib04&repo=YOUR_REPO_NAME&theme=transparent" />
   </a>
-  <a href="https://github.com/rh-rakib04">
+  <a href="https://github.com/rh-rakib04/YOUR_REPO_NAME_2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rh-rakib04&repo=YOUR_REPO_NAME_2&theme=transparent" />
   </a>
 </p>
 
-📝 Replace `YOUR_REPO_NAME` with your actual repo names.
+📝 Replace `YOUR_REPO_NAME` & `YOUR_REPO_NAME_2` with actual project names.
 
 ---
 
 ## 📈 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rh-rakib04&bg_color=transparent&color=4c9aff&line=4c9aff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rh-rakib04&bg_color=00000000&color=4c9aff&line=4c9aff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -77,4 +78,3 @@
 
 ## ✨ Philosophy
 > *Consistency beats motivation. One commit a day changes everything.*
-
