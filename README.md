@@ -58,7 +58,8 @@
   </a>
 </p>
 
-📝 Replace `YOUR_REPO_NAME` & `YOUR_REPO_NAME_2` with actual project names.
+📝 Replace `rentwheels-client` & `Smart-Deals
+` with actual project names.
 
 ---
 
