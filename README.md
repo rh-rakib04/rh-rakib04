@@ -50,15 +50,12 @@
 
 ## 📌 Pinned Projects
 <p align="center">
-  <a href="https://github.com/rh-rakib04/YOUR_REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rh-rakib04&repo=YOUR_REPO_NAME&theme=transparent" />
+  <a href="https://github.com/rh-rakib04/rentwheels-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rh-rakib04&repo=rentwheels-client&theme=transparent" />
   </a>
-  <a href="https://github.com/rh-rakib04/YOUR_REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rh-rakib04&repo=YOUR_REPO_NAME_2&theme=transparent" />
-  </a>
-</p>
+  </p>
 
-📝 Replace `rentwheels-client` & `Smart-Deals
+📝 Replace `rentwheels-client`
 ` with actual project names.
 
 ---
