@@ -4,7 +4,7 @@
 
 ### 🌐 Full-Stack Web Developer from Bangladesh 🇧🇩
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4C9AFF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+Expert;MongoDB+%7C+Firebase+Specialist;Building+Scalable+Web+Solutions;Consistency+beats+motivation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4C9AFF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;MongoDB+%7C+Firebase+Specialist;Building+Scalable+Web+Solutions;Consistency+beats+motivation" alt="Typing SVG" />
 
 </div>
 
