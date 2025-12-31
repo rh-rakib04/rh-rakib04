@@ -1,16 +1,23 @@
+<!-- Animated Header with Icons -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&height=220&text=Rakibul%20Hossain%20Bhuiya&fontAlign=50&fontAlignY=35&color=gradient&animation=twinkling" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Rakibul%20Hossain%20Bhuiya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Specialist&descSize=20&descAlignY=55)
 
-### 🚀 Full-Stack Web Developer | MERN Stack Specialist 🇧🇩
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="60" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4C9AFF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;MongoDB+%7C+Firebase;Building+Scalable+Web+Apps;Consistency+Beats+Motivation" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Solutions;MERN+Stack+%7C+Next.js+%7C+TypeScript;Clean+Code+%2B+System+Design;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=rh-rakib04&label=Profile+Views&color=4C9AFF&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/rh-rakib04?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/rh-rakib04?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakibulhossain04)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakibulhossainbhuiya04@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=rh-rakib04&style=for-the-badge&color=61DAFB)](https://github.com/rh-rakib04)
 
 </div>
 
@@ -18,40 +25,127 @@
 
 ## 🔥 About Me
 
-> **"Code is the bridge between ideas and reality."**
+<div align="center">
 
-I’m a **Full-Stack Web Developer** passionate about building **scalable, user-centric applications** using the **MERN stack**.  
-I combine **business understanding (BBA)** with **clean engineering** to solve real-world problems.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing" width="50" />
 
-- 💻 MERN Stack Specialist  
-- 🎯 Focused on performance & scalability  
-- 🚀 Real-world project builder  
-- 🌱 Continuous learner  
-- 🤝 Open to collaboration & freelance work  
+### *"Code is the bridge between ideas and reality."*
+
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+I help **businesses, startups, and developers** build web solutions that are **fast, efficient, and impactful**. With a strong foundation in **MERN stack** and a business mindset from my **BBA**, I combine **tech & strategy** to solve real-world problems.
+
+<br>
+
+### 🎯 Quick Facts
+
+- 📍 **Location:** Chattogram, Bangladesh 🇧🇩
+- 🎓 **Education:** BBA Student with Engineering Focus
+- 💼 **Current Role:** Full-Stack Web Developer
+- 🔭 **Working On:** Production-grade MERN applications
+- 🌱 **Learning:** Advanced TypeScript, System Design, Cloud Architecture
+- 💡 **Philosophy:** Consistency over intensity. Systems over motivation.
+- ⚡ **Fun Fact:** I commit code every single day!
+
+<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⚡ Tech Stack
+## 💻 Tech Stack
+
+<div align="center">
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,javascript,tailwind,html,css" alt="Frontend Skills" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma,npm" alt="Tools" />
+</p>
+
+</div>
+
+<details>
+<summary><b>📦 Detailed Tech Stack</b></summary>
 
 ### 🎨 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+- **Frameworks:** React, Next.js
+- **Languages:** JavaScript (ES6+)
+- **Styling:** Tailwind CSS, CSS3, HTML5
+- **UI Libraries:** Material-UI, shadcn/ui
 
-### 🧠 Backend
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+### ⚙️ Backend
+- **Runtime:** Node.js
+- **Framework:** Express.js
+- **Database:** MongoDB, Firebase Firestore
+- **Authentication:** JWT, Firebase Auth
+- **API:** RESTful APIs
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+### 🛠️ Tools & Others
+- **Version Control:** Git, GitHub
+- **Deployment:** Vercel, Netlify, Firebase Hosting
+- **API Testing:** Postman, Thunder Client
+- **Design:** Figma
+- **Package Manager:** npm, yarn
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 What I Do
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Build Dynamic Applications
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="40" />
+
+I create **full-stack web applications** with modern frameworks like React and Next.js, ensuring smooth user experiences and robust backend systems.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Optimize Performance
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="40" />
+
+I focus on **performance optimization** and **user experience**, making sure applications load fast and run efficiently across all devices.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Turn Ideas Into Products
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="40" />
+
+I transform business ideas into **scalable, maintainable projects** with clean code architecture and best practices.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Share Knowledge
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="40" />
+
+I contribute **open-source projects** and share **code snippets** to help other developers learn and grow.
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -73,18 +167,6 @@ I combine **business understanding (BBA)** with **clean engineering** to solve r
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rh-rakib04&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rh-rakib04&theme=tokyonight&hide_border=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rh-rakib04&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🐍 Contribution Snake (Animated)
 
 <div align="center">
@@ -95,56 +177,113 @@ I combine **business understanding (BBA)** with **clean engineering** to solve r
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Consistency Score (Auto-Updated)
 
-<!-- CONSISTENCY_START -->
-**Loading...**
-<!-- CONSISTENCY_END -->
-
-> ⚙️ Updated daily using **GitHub Actions**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 GitHub Trophies
+## 📈 Commit Analytics (Live)
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rh-rakib04&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rh-rakib04&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rh-rakib04&theme=tokyonight"/>
+
+</div>
+
+
+## ⏱ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 📈 Contribution Graph
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rh-rakib04&custom_title=Rakib's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 What I Bring to a Team
-
-| Strength | Description |
-|--------|------------|
-| 🧠 Problem Solver | Break complex problems into clean solutions |
-| ⚡ Fast Learner | Adapt quickly to new tools & stacks |
-| 🤝 Team Player | Clear communication & collaboration |
-| 🚀 Performance-Focused | Optimized, scalable systems |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌍 Let’s Connect
+## 💼 What I Bring to Your Team
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rakibulhossain04/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/rakibul.hossain.925602)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/rhrakib04/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:rakibulhossainbhuiya@gmail.com)
+| 💪 Strength | 📝 Description |
+|-------------|----------------|
+| **🎯 Production-Ready Code** | Writing clean, maintainable, and scalable solutions that stand the test of time |
+| **🔄 Full-Stack Expertise** | End-to-end development from database design to deployment and monitoring |
+| **🧩 Problem-Solving Mindset** | Breaking down complex challenges into actionable, efficient solutions |
+| **📚 Continuous Learning** | Daily commits, constant growth, and quick adaptation to new technologies |
+| **🤝 Team Collaboration** | Clear communication, code reviews, and a teamwork-oriented approach |
+| **⚡ Performance Focus** | Optimizing applications for speed, scalability, and user experience |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Current Focus & Goals
+
+- 🔨 **Building:** Production-grade applications with React.js and JavaScript
+- 📚 **Learning:** Next.js for modern, scalable frontends 
+- 🌱 **Contributing:** Actively seeking open-source projects to contribute to
+- 💡 **Exploring:** AI‑powered web apps & edge computing for smarter, faster user experiences
+- 🎯 **Goal 2026:** Build and deploy 10+ projects, contribute to 5+ open-source repos
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📫 Let's Connect & Collaborate
 
 <div align="center">
 
-### 💙 Consistency Beats Motivation  
-**One commit a day can change everything.**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="80" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&section=footer" />
+### I'm always excited to discuss new opportunities, collaborate on innovative projects, or connect with fellow developers!
+
+<br>
+
+### 💼 Open For:
+✅ **Full-time Developer Positions**  
+✅ **Freelance & Contract Projects**  
+✅ **Open Source Collaborations**  
+✅ **Technical Consulting**  
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakibulhossain04)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rh-rakib04.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakibulhossainbhuiya04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rh-rakib04)
+
+<br>
+
+### 💬 Let's Talk About:
+**Web Development** • **System Design** • **Open Source** • **Tech Trends** • **Career Growth** • **Freelancing**
+**Web Development** • **Open Source** • **Tech Trends** • **Career Growth** • **Freelancing**
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Show some love by starring repositories you find interesting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+**💡 "Consistency compounds. Every commit counts. Build in public, learn forever."**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="30" /> *Made with passion by Rakib* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="30" />
+
+
+</div>
+
+---
