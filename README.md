@@ -1,7 +1,15 @@
-<!-- Animated Header -->
+<!-- Animated Header with Icons -->
 <div align="center">
-  
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Rakibul%20Hossain%20Bhuiya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Specialist&descSize=20&descAlignY=55)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="60" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Solutions;MERN+Stack+%7C+Next.js+%7C+TypeScript;Clean+Code+%2B+System+Design;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -14,71 +22,129 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 About Me
+## 🔥 About Me
+
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing" width="50" />
+
+### *"Code is the bridge between ideas and reality."*
+
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-I'm a **Full-Stack Developer** from **Chattogram, Bangladesh** 🇧🇩, passionate about creating efficient, user-centered web applications. Currently pursuing my **BBA** while building production-ready applications using modern JavaScript frameworks.
+I help **businesses, startups, and developers** build web solutions that are **fast, efficient, and impactful**. With a strong foundation in **MERN stack** and a business mindset from my **BBA**, I combine **tech & strategy** to solve real-world problems.
 
-- 🔭 I'm currently working on **Full-Stack Web Applications**
-- 🌱 I'm learning **Advanced TypeScript, System Design & Cloud Architecture**
-- 💼 Open for **Full-time positions** and **Freelance projects**
-- 💡 I believe in **"Consistency over intensity. Systems over motivation."**
-- 📍 Based in **Chattogram, Bangladesh**
-- 🎯 **2024 Goal:** Contribute to Open Source & Build 50+ Projects
+<br>
 
-```javascript
-const rakib = {
-  location: "Chattogram, Bangladesh 🇧🇩",
-  role: "Full-Stack Developer",
-  education: "BBA Student with Engineering Mindset",
-  code: ["JavaScript", "TypeScript", "Python"],
-  technologies: {
-    frontend: ["React", "Next.js", "Redux", "TailwindCSS"],
-    backend: ["Node.js", "Express", "MongoDB", "Firebase"],
-    tools: ["Git", "Postman", "Figma", "VS Code", "Vercel"]
-  },
-  architecture: ["Microservices", "Event-Driven", "RESTful APIs"],
-  currentFocus: "Building Scalable & Maintainable Applications",
-  philosophy: "Write code that speaks for itself"
-};
-```
+### 🎯 Quick Facts
+
+- 📍 **Location:** Chattogram, Bangladesh 🇧🇩
+- 🎓 **Education:** BBA Student with Engineering Focus
+- 💼 **Current Role:** Full-Stack Web Developer
+- 🔭 **Working On:** Production-grade MERN applications
+- 🌱 **Learning:** Advanced TypeScript, System Design, Cloud Architecture
+- 💡 **Philosophy:** Consistency over intensity. Systems over motivation.
+- ⚡ **Fun Fact:** I commit code every single day!
+
+<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Stack & Tools
+## 💻 Tech Stack
 
 <div align="center">
 
-### 💻 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,redux" alt="Frontend Skills" />
+</p>
 
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills" />
+</p>
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma,npm" alt="Tools" />
+</p>
+
+</div>
+
+<details>
+<summary><b>📦 Detailed Tech Stack</b></summary>
+
+### 🎨 Frontend
+- **Frameworks:** React, Next.js
+- **Languages:** TypeScript, JavaScript (ES6+)
+- **Styling:** Tailwind CSS, CSS3, HTML5
+- **State Management:** Redux, Context API
+- **UI Libraries:** Material-UI, shadcn/ui
+
+### ⚙️ Backend
+- **Runtime:** Node.js
+- **Framework:** Express.js
+- **Database:** MongoDB, Firebase Firestore
+- **Authentication:** JWT, Firebase Auth
+- **API:** RESTful APIs
+
+### 🛠️ Tools & Others
+- **Version Control:** Git, GitHub
+- **Deployment:** Vercel, Netlify, Firebase Hosting
+- **API Testing:** Postman, Thunder Client
+- **Design:** Figma
+- **Package Manager:** npm, yarn
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 What I Do
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Build Dynamic Applications
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="40" />
+
+I create **full-stack web applications** with modern frameworks like React and Next.js, ensuring smooth user experiences and robust backend systems.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Optimize Performance
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="40" />
+
+I focus on **performance optimization** and **user experience**, making sure applications load fast and run efficiently across all devices.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Turn Ideas Into Products
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="40" />
+
+I transform business ideas into **scalable, maintainable projects** with clean code architecture and best practices.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Share Knowledge
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="40" />
+
+I contribute **open-source projects** and share **code snippets** to help other developers learn and grow.
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -97,7 +163,7 @@ const rakib = {
 
 </div>
 
-### 🚗 [RentWheels - Car Rental Platform](https://github.com/rh-rakib04/rentwheels-client)
+### 🚗 RentWheels - Car Rental Platform
 > A comprehensive full-stack car rental application with real-time booking management and payment integration.
 
 **Tech Stack:** React · Node.js · Express · MongoDB · Stripe · JWT  
@@ -112,7 +178,7 @@ const rakib = {
 
 ---
 
-### 📚 [eTuitionBD - Online Tutoring Marketplace](https://github.com/rh-rakib04/eTutionBd_Client)
+### 📚 eTuitionBD - Online Tutoring Marketplace
 > Smart platform connecting students with qualified tutors through intelligent matching algorithms.
 
 **Tech Stack:** MERN Stack · Firebase Auth · TailwindCSS · Socket.io  
@@ -217,13 +283,17 @@ mindmap
 
 <div align="center">
 
-I'm always excited to discuss new opportunities, collaborate on innovative projects, or connect with fellow developers and tech enthusiasts!
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="80" />
+
+### I'm always excited to discuss new opportunities, collaborate on innovative projects, or connect with fellow developers!
+
+<br>
 
 ### 💼 Open For:
-✅ Full-time Developer Positions  
-✅ Freelance & Contract Projects  
-✅ Open Source Collaborations  
-✅ Technical Consulting  
+✅ **Full-time Developer Positions**  
+✅ **Freelance & Contract Projects**  
+✅ **Open Source Collaborations**  
+✅ **Technical Consulting**  
 
 <br>
 
@@ -259,7 +329,9 @@ I'm always excited to discuss new opportunities, collaborate on innovative proje
 
 **💡 "Consistency compounds. Every commit counts. Build in public, learn forever."**
 
-*Made with ❤️ by Rakib | Last Updated: December 2024*
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="30" /> *Made with passion by Rakib* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="30" />
+
+*Last Updated: December 2024*
 
 </div>
 
