@@ -149,35 +149,6 @@ I contribute **open-source projects** and share **code snippets** to help other 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/rh-rakib04/rentwheels-client">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rh-rakib04&repo=rentwheels-client&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/rh-rakib04/eTutionBd_Client">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rh-rakib04&repo=eTutionBd_Client&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Analytics
-
-## 🐍 Contribution Snake (Animated)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 ## 📈 Commit Analytics (Live)
 
 <div align="center">
@@ -200,6 +171,16 @@ I contribute **open-source projects** and share **code snippets** to help other 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rh-rakib04&custom_title=Rakib's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
 </div>
+
+## 🐍 Contribution Snake 
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
