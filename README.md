@@ -192,19 +192,9 @@ I contribute **open-source projects** and share **code snippets** to help other 
 
 </div>
 
-
-## 📊 Weekly Development Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rh-rakib04&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-## ⏱ Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!-- CONSISTENCY_START -->
+loading...
+<!-- CONSISTENCY_END -->
 
 
 ### 📈 Contribution Graph
@@ -269,7 +259,7 @@ I contribute **open-source projects** and share **code snippets** to help other 
 <br>
 
 ### 💬 Let's Talk About:
-**Web Development** • **System Design** • **Open Source** • **Tech Trends** • **Career Growth** • **Freelancing**
+**Web Development** • **Open Source** • **Tech Trends** • **Career Growth** • **Freelancing**
 
 </div>
 
