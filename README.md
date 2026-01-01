@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Solutions;MERN+Stack+%7C+Next.js+%7C+TypeScript;Clean+Code+%2B+System+Design;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Solutions;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakibulhossain04)
@@ -150,17 +150,19 @@ I contribute **open-source projects** and share **code snippets** to help other 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">📊 GitHub Insights</h2>
+
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=rh-rakib04&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=rh-rakib04&theme=github_dark&graph=false&languages=true&streak=true&stats=false&header=false&summary=true&profile=false" alt="GitHub Insights" />
 </p>
-
-## 🐍 Contribution Snake 
-
+-
+### 📈 Contribution Graph
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rh-rakib04&custom_title=Rakib's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
 </div>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
