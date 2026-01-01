@@ -154,8 +154,7 @@ I contribute **open-source projects** and share **code snippets** to help other 
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=rh-rakib04&theme=github_dark&graph=false&languages=true&streak=true&stats=false&header=false&summary=true&profile=false" alt="GitHub Insights" />
 </p>
--
-### 📈 Contribution Graph
+
 <div align="center">
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rh-rakib04&custom_title=Rakib's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
