@@ -148,29 +148,10 @@ I contribute **open-source projects** and share **code snippets** to help other 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Commit Analytics (Live)
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rh-rakib04&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rh-rakib04&theme=tokyonight"/>
-
-</div>
-
-
-## ⏱ Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-### 📈 Contribution Graph
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rh-rakib04&custom_title=Rakib's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
-
-</div>
+📊 GitHub Insights
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=rh-rakib04&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
 
 ## 🐍 Contribution Snake 
 
@@ -179,8 +160,6 @@ I contribute **open-source projects** and share **code snippets** to help other 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
