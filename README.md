@@ -1,103 +1,24 @@
+<!-- Animated Header with Icons -->
 <div align="center">
 
-<svg width="100%" height="330" viewBox="0 0 1200 330"
-     xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Rakibul%20Hossain%20Bhuiya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Specialist&descSize=20&descAlignY=55)
 
-  <!-- Gradient -->
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f2027">
-        <animate attributeName="stop-color"
-          values="#0f2027;#203a43;#2c5364;#0f2027"
-          dur="8s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#2c5364">
-        <animate attributeName="stop-color"
-          values="#2c5364;#0f2027;#203a43;#2c5364"
-          dur="8s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="60" />
+</p>
 
-  <rect width="1200" height="330" fill="url(#bg)" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Solutions;MERN+Stack+%7C+Next.js+%7C+TypeScript;Clean+Code+%2B+System+Design;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
 
-  <!-- Name -->
-  <text x="50%" y="115" text-anchor="middle"
-        font-size="46" font-weight="700"
-        fill="#ffffff"
-        font-family="Segoe UI, Arial">
-    Rakibul Hossain Bhuiya
-  </text>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakibulhossain04)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakibulhossainbhuiya04@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=rh-rakib04&style=for-the-badge&color=61DAFB)](https://github.com/rh-rakib04)
 
-  <!-- Title 1 -->
-  <text x="50%" y="165" text-anchor="middle"
-        font-size="22" fill="#00eaff"
-        font-family="Consolas, monospace">
-    Full Stack Web Developer
-    <animate attributeName="opacity"
-      values="1;1;0;0"
-      dur="6s" repeatCount="indefinite"/>
-  </text>
-
-  <!-- Title 2 -->
-  <text x="50%" y="165" text-anchor="middle"
-        font-size="22" fill="#00eaff"
-        font-family="Consolas, monospace">
-    MERN Stack Web Developer
-    <animate attributeName="opacity"
-      values="0;0;1;1"
-      dur="6s" repeatCount="indefinite"/>
-  </text>
-
-  <!-- Icons -->
-  <g opacity="0.85">
-
-    <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-      x="120" y="70" width="40">
-      <animateTransform type="translate"
-        from="0 0" to="0 12" dur="2.5s" repeatCount="indefinite"/>
-    </image>
-
-    <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-      x="300" y="250" width="36">
-      <animateTransform type="translate"
-        from="0 0" to="0 10" dur="2s" repeatCount="indefinite"/>
-    </image>
-
-    <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-      x="550" y="85" width="40">
-      <animateTransform type="translate"
-        from="0 0" to="0 14" dur="2.8s" repeatCount="indefinite"/>
-    </image>
-
-    <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-      x="960" y="90" width="42">
-      <animateTransform type="translate"
-        from="0 0" to="0 12" dur="2.4s" repeatCount="indefinite"/>
-    </image>
-
-    <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-      x="200" y="230" width="36">
-      <animateTransform type="translate"
-        from="0 0" to="0 10" dur="2s" repeatCount="indefinite"/>
-    </image>
-
-    <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-      x="720" y="70" width="36">
-      <animateTransform type="translate"
-        from="0 0" to="0 12" dur="2.6s" repeatCount="indefinite"/>
-    </image>
-
-    <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
-      x="460" y="260" width="38">
-      <animateTransform type="translate"
-        from="0 0" to="0 10" dur="2.3s" repeatCount="indefinite"/>
-    </image>
-
-  </g>
-
-</svg>
 </div>
 
 
